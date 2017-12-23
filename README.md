@@ -6,3 +6,4 @@ Chandan Gautam, Aruna Tiwari, Qian Leng, On the construction of extreme learning
 (http://www.sciencedirect.com/science/article/pii/S0925231217302096)
 
 requires a specific version of prtools. Namely PRtools4
+first run demo-ELM-dd .
